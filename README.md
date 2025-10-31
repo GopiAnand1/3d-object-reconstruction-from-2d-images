@@ -102,7 +102,7 @@ OpenCV
 
 👨‍💻 Author
 
-Name: Pranesh, Erlapally Manohar Kritik, Erlapally Manohar Kritik
+Name: Pranesh, Erlapally Manohar Kritik, Gopi Anand 
 Project Title: 3D Object Reconstruction from 2D Images
 Company: Valise
 Year: 2025 Submission
